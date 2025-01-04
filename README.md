@@ -40,7 +40,7 @@ Working flowchart of the Compiler-
 
 ![image](https://github.com/NepThunder/assets/blob/main/1.png)
 
-Parser along with AST diagram-
+AST diagram-
 
 ![Parser and AST](https://github.com/NepThunder/assets/blob/main/tree.png)
 
