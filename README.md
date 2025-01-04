@@ -29,5 +29,7 @@ For Linux user:
 For Windows user:
 
 ```
-./Compiler.exe ./input.exe
+./Compiler.exe ./input.txt
 ```
+
+The output.asm text file is the generated assembly language code.
