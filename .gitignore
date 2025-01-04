@@ -2,3 +2,4 @@
 ./test.exe
 ./testlexer.exe
 ./testparser.exe
+./Compiler.exe
