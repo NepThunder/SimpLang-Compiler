@@ -40,8 +40,14 @@ Working flowchart of the Compiler-
 
 ![image](https://github.com/NepThunder/assets/blob/main/1.png)
 
+Parser along with AST diagram-
+
 ![Parser and AST](https://github.com/NepThunder/assets/blob/main/tree.png)
 
+Input code-
+
 ![Input Code](https://github.com/NepThunder/assets/blob/main/code.png)
+
+Generated Assembly Code-
 
 ![Assembly Code](https://github.com/NepThunder/assets/blob/main/assembly.png)
