@@ -33,3 +33,15 @@ For Windows user:
 ```
 
 The output.asm text file is the generated assembly language code.
+
+## Design & architecture of Compiler
+
+Working flowchart of the Compiler-
+
+![image](https://github.com/NepThunder/assets/blob/main/1.png)
+
+![Parser and AST](https://github.com/NepThunder/assets/blob/main/tree.png)
+
+![Input Code](https://github.com/NepThunder/assets/blob/main/code.png)
+
+![Assembly Code](https://github.com/NepThunder/assets/blob/main/assembly.png)
